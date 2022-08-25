@@ -1,2 +1,2 @@
 My first readme
-Learning everything Git and Github.
+learning everything Git and Github.
